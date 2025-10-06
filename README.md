@@ -76,11 +76,13 @@ Sou uma pessoa comprometida, colaborativa e que valoriza o aprendizado contínuo
 <p>
     <img 
     align="left" 
-    alt="GitHub Stats"
+    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabriellydaCosta&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
-    />
+    src="https://github-readme-stats.vercel.app/api?username=GabriellydaCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+
 
 <img 
     align="left" 
